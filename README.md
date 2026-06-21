@@ -68,7 +68,7 @@ My research focuses on deep learning and knowledge distillation for computer vis
 
 
 
-Python • JavaScript • TypeScript • C/C++
+Python • JavaScript • TypeScript
 
 
 
